@@ -1,0 +1,7 @@
+requests
+aiohttp
+discord.py
+beautifulsoup4
+minecraft-launcher-lib
+dnspython
+
