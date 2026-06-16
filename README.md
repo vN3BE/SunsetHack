@@ -40,6 +40,12 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+### Login and password
+
+```bash
+Login: 123
+Passw: 123
+```
 
 ---
 
