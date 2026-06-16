@@ -1,88 +1,59 @@
 # 🌅 SunsetHack
 
-**SunsetHack** — Minecraft Pentest Tool для тестирования безопасности серверов Minecraft и анализа сетевых конфигураций.
+**SunsetHack** is a Minecraft Pentest Tool designed for security research, server diagnostics, and authorized testing.
 
-> Предназначен исключительно для образовательных целей, исследований и проверки собственных серверов или серверов, на тестирование которых получено разрешение.
-
----
-
-## ✨ Возможности
-
-- 🔍 Анализ доступности серверов Minecraft
-- 📡 Проверка сетевых параметров
-- 🛠 Инструменты диагностики подключения
-- 📊 Сбор технической информации о сервере
-- ⚡ Удобный графический интерфейс
-- 🔒 Тестирование безопасности в рамках разрешённого аудита
+> This project is intended for educational purposes, security research, and testing systems that you own or have explicit permission to assess.
 
 ---
 
-## 📸 Интерфейс
+## ✨ Features
 
-Современный минималистичный интерфейс в тёмном стиле с акцентами Sunset.
+- 🔍 Minecraft server analysis
+- 📡 Network diagnostics
+- 🛠 Connectivity testing tools
+- 📊 Technical information gathering
+- ⚡ Modern and user-friendly interface
+- 🔒 Security assessment utilities
 
 ---
 
-## 🚀 Установка
 
-### Windows
+---
 
-Скачайте последнюю версию из раздела Releases:
+## 🚀 Installation
+
+### Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/SunsetHack.git
+git clone https://github.com/vN3BE/SunsetHack.git
 cd SunsetHack
 ```
 
-### Запуск
-
-```bash
-python main.py
-```
-
-или
-
-```bash
-SunsetHack.exe
-```
-
----
-
-## 📋 Требования
-
-- Python 3.10+
-- Windows 10/11
-
-Установка зависимостей:
+### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
----
+### Run
 
-## ⚠️ Отказ от ответственности
-
-Разработчики SunsetHack не несут ответственности за неправомерное использование программы.
-
-Используйте инструмент только:
-
-- Для собственных серверов
-- В исследовательских целях
-- При наличии разрешения владельца сервера
-
-Любое использование против сторонних ресурсов без разрешения может нарушать законодательство вашей страны.
+```bash
+python main.py
+```
 
 ---
 
-## 🛡 Назначение проекта
+## 📋 Requirements
 
-SunsetHack создан как инструмент для изучения принципов работы Minecraft-серверов, анализа сетевого взаимодействия и проведения авторизованных тестов безопасности.
+- Python 3.10+
+- Windows 10/11
 
 ---
 
-## 📄 License
+## ⚠️ Disclaimer
 
-MIT License
+The developers of SunsetHack are not responsible for any misuse of this software.
 
-Copyright (c) 2026 SunsetHack
+Use this tool only on systems you own or have permission to test.
+
+Unauthorized use against third-party systems may violate local laws and regulations.
