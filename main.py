@@ -39,7 +39,7 @@ def auth():
             print()
         login = gradient_input(" Login: ")
         password = gradient_input(" Password: ")
-        if login == "zxcnosky" and password == "123qwe":
+        if login == "123" and password == "123":
             gradient_print("\n Login successful! Welcome.", 0.03)
             time.sleep(1)
             return True
